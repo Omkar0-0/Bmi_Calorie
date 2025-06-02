@@ -24,8 +24,6 @@ A simple web application to calculate **Body Mass Index (BMI)** and estimate dai
 Then multiply by an activity factor to get daily calorie needs.
 
 
-## 📁 Folder Structure
-
 ## 🧑‍💻 Getting Started
 
 1. Clone the repo:
