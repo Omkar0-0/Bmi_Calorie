@@ -11,7 +11,8 @@ A simple web application to calculate **Body Mass Index (BMI)** and estimate dai
 
 ## 🧮 How It Works
 
-### ✅ BMI Formula:
+### ✅ BMI Formula:BMI = weight (kg) / [height (m)]²
+
 
 
 ### ✅ Calorie Formula (Mifflin-St Jeor Equation):
